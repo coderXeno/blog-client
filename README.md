@@ -1,3 +1,5 @@
+Too lazy to write a documentation rn. Will do it later! Feel free to check out the code and ill be posting the backend files as well.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
